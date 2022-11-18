@@ -9,9 +9,11 @@ The saved dataset for reproducing the figures in the above article can be access
 
 # BibTex
 If you use any part our codes, please cite us at,
+'''
 > @article{tripura2022learning,
   title={Learning governing physics from output only measurements},
   author={Tripura, Tapas and Chakraborty, Souvik},
   journal={arXiv preprint arXiv:2208.05609},
   year={2022}
 }
+'''
