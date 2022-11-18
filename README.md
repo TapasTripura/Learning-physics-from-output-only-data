@@ -1,7 +1,7 @@
 # Learning-physics-from-output-only-data
 This repository contains the python codes of the paper 
-  > "A sparse Bayesian framework for discovering interpretable nonlinear stochastic dynamical systems with Gaussian white noise", authored by Tapas Tripura and Souvik Chakraborty.
-  > In arXiv version this article can be searched as "Learning governing physics from output only measurements". The arXiv version can be accessed [here](https://arxiv.org/pdf/2208.05609.pdf).
+  > + "A sparse Bayesian framework for discovering interpretable nonlinear stochastic dynamical systems with Gaussian white noise", authored by Tapas Tripura and Souvik Chakraborty.
+  > + In arXiv version this article can be searched as "Learning governing physics from output only measurements". The arXiv version can be accessed [here](https://arxiv.org/pdf/2208.05609.pdf).
 
 # Files
 The main codes, described below, are standalone codes. They can be directly run. However, for the figures in the published article, one needs to run the files in the folder `Paper_figures`. A short despcription on the files are provided below for ease of readers.
