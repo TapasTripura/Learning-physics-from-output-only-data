@@ -4,12 +4,10 @@ This repository contains the python codes of the paper
   > In arXiv version this article can be searched as "Learning governing physics from output only measurements".
 
 # Files
-```
-  + gg
-  + g 
+  - gg
+  * g 
   + g
   + g
-```
 
 # Dataset
 The saved dataset for reproducing the figures in the above article can be accessed at,
