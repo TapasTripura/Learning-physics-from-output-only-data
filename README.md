@@ -4,9 +4,9 @@ This repository contains the python codes of the paper
   > In arXiv version this article can be searched as "Learning governing physics from output only measurements".
 
 # Files
-  - gg
-  * g 
-  + g
+  - `#utils_gibbs.py`
+  * `#utils_library.py`
+  + `#utils_response.py`
   + g
 
 # Dataset
