@@ -21,10 +21,18 @@ The saved dataset for reproducing the figures in the above article can be access
 # BibTex
 If you use any part our codes, please cite us at,
 ```
-@article{tripura2022learning,
-  title={Learning governing physics from output only measurements},
+@article{tripura2023sparse,
+  title={A sparse Bayesian framework for discovering interpretable nonlinear stochastic dynamical systems with Gaussian white noise},
   author={Tripura, Tapas and Chakraborty, Souvik},
-  journal={arXiv preprint arXiv:2208.05609},
-  year={2022}
+  journal={Mechanical Systems and Signal Processing},
+  volume={187},
+  pages={109939},
+  year={2023},
+  publisher={Elsevier}
 }
+```
+
+# APA-style
+```
+Tripura, T., & Chakraborty, S. (2023). A sparse Bayesian framework for discovering interpretable nonlinear stochastic dynamical systems with Gaussian white noise. Mechanical Systems and Signal Processing, 187, 109939.
 ```
