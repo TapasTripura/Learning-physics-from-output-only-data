@@ -3,6 +3,12 @@ This repository contains the python codes of the paper
   > + Tripura, T., & Chakraborty, S. (2023). A sparse Bayesian framework for discovering interpretable nonlinear stochastic dynamical systems with Gaussian white noise. Mechanical Systems and Signal Processing, 187, 109939. [Article](https://doi.org/10.1016/j.ymssp.2022.109939)
   > + In arXiv version this article can be searched as "Learning governing physics from output only measurements". The arXiv version can be accessed [here](https://arxiv.org/abs/2208.05609).
 
+# Simultaneous Model and Parameter Identification
+  + Model Discovery 
+    ![Stochastic Duffing Oscillator](Paper_figures/Stem.gif)
++ Parameter Identification of Discovered Model
+    ![Stochastic Duffing Oscillator](Paper_figures/Param.gif)
+
 # Files
 The main codes, described below, are standalone codes. They can be directly run. However, for the figures in the published article, one needs to run the files in the folder `Paper_figures`. A short despcription on the files are provided below for ease of readers.
   + `Example_1_BScholes.py` is the code to discover physics for the Example 1: Black-Scholes equation [article](https://arxiv.org/pdf/2208.05609.pdf).
